@@ -1,11 +1,45 @@
+header{
+    text-align: center;
+    background-color: gray;
+}
+main{
+    text-align: center;
+}
+
+body{
+    background-color:aquamarine;
+}
+
 h1{
      font-weight: bold;
 }
 
-ul li a {
-  padding: 10px 20px;
-  text-align: center; 
-  display: inline-block;
-  width: 25%;
-  box-sizing: border-box;
+
+nav {
+  float: left;
+  width: 10%;
+  height: 1000px;
+  background-color: peachpuff;
+  padding: 20px;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+table{
+    width:80%;
+}
+main ol{
+        list-style-type: none;
+        padding: 0;
+        
+    }
+
+td, th {
+  border:none;
+  text-align: center;
+  padding: 8px;
+}
+ul{
+    list-style-type: none;
 }
