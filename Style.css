@@ -56,3 +56,26 @@ blockquote{
     font:italic;
     font-weight: bold;
 }
+
+.ui.vertical.menu{
+    background-color: peachpuff;
+    
+}
+
+.ui.link.cards{
+    padding-top: 50px;
+}
+
+.ui.row{
+    padding: 50px;
+    
+}
+
+.form{
+         
+            display: flex;
+            justify-content: center;
+            align-items: center;    
+    text-align: center;
+    flex:40%;
+}
